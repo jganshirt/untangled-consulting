@@ -1,0 +1,30 @@
+/* MEDIA QUERIES */
+
+/* COMBINE INTO PARENT WRAPPER DON'T BE REDUNDENT */
+
+/* small screens */
+@media screen and (min-width: 497px) {
+    li {
+        display: column;
+
+    }
+}
+
+@media (min-width: 576px) {
+   
+}
+
+
+/* medium screens */
+@media (min-width: 768px) {
+
+}
+
+@media (min-width: 992px) {
+    
+}
+
+/* large screens */
+@media (min-width: 1200px) {
+
+}
