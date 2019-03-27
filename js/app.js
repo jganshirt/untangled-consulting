@@ -13,6 +13,10 @@ var sec = 0;
 const timer = document.querySelector('#timer');
 const timerTop = nav.offsetTop;
     
+
+// STICKY TIMER - FIGURE THIS OUT!!!!
+
+
     function stickyTimer() {
       console.log('timerTop = ' + navTop);
       console.log('scrollY = ' + window.scrollY);

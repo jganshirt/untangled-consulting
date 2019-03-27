@@ -113,8 +113,7 @@ img.align-center {
 
 .topnav {
     padding: 1%;
-    align-content: center;
-
+    text-align: center;
 }
 /* EMAIL REQUEST */
 .request {
@@ -230,10 +229,12 @@ img.align-center {
         padding-bottom: 10px;
 
     }
+
+    .topnav
     
     .topnav a {
         padding-right: 12%;
-        margin-left: 8%;
+        /* margin-left: 8%; */
 
     }
 }
